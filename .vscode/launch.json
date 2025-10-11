@@ -1,0 +1,19 @@
+﻿{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Main",
+      "request": "launch",
+      "mainClass": "org.apcsa.Main",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "java",
+      "name": "Run Tmp",
+      "request": "launch",
+      "mainClass": "org.apcsa.tmp.Tmp",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
