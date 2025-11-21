@@ -1,6 +1,13 @@
-﻿{
+{
   "version": "0.2.0",
   "configurations": [
+    {
+      "type": "java",
+      "name": "Tmp",
+      "request": "launch",
+      "mainClass": "Tmp",
+      "projectName": "apcsa-workspace_f8328b6c"
+    },
     {
       "type": "java",
       "name": "Run Main",
